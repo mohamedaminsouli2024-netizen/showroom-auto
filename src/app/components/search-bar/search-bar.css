@@ -1,0 +1,28 @@
+.container {
+  margin: 30px;
+  padding: 10px;
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  background-color: white;
+  color: black;
+}
+
+.container input {
+  all: unset;
+  width: 100px;
+  font-weight: bold;
+}
+
+.container fa-icon {
+  cursor: pointer;
+  color: black;
+}
+
+.container label {
+  color: rgb(249, 25, 205);
+  font-weight: bold;
+}
